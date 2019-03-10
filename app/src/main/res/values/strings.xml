@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="button">Google</string>
+</resources>
